@@ -6,6 +6,6 @@
 
 Авторизация: XPath //input[@class="submit-button btn_action"]   CSS .submit-button.btn_action
 
-Допустимые логины: XPath //div[@id="login_credentials"]     CSS .login_credential
+Допустимые логины: XPath //div[@id="login_credentials"]     CSS .login_credentials
 
 Допустимые пароли: XPath //div[@class="login_password"]     CSS .login_password
